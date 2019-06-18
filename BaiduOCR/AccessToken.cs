@@ -13,9 +13,9 @@ namespace BaiduOCR
         public static String TOKEN = "24.adda70c11b9786206253ddb70affdc46.2592000.1493524354.282335-1234567";
 
         // 百度云中开通对应服务应用的 API Key 建议开通应用的时候多选服务
-        private static String clientId = ConfigurationManager.AppSettings["clientId"];//"HL9MIuGIAWLTuVEHdlvgrEob";
+        private static String clientId = ConfigurationManager.AppSettings["clientId"];//"";
         // 百度云中开通对应服务应用的 Secret Key
-        private static String clientSecret = ConfigurationManager.AppSettings["clientSecret"];// "YEIOGljm0R60IKC2FQ33Yb40cVyUbFzk";
+        private static String clientSecret = ConfigurationManager.AppSettings["clientSecret"];// "";
 
         // 百度云中开通对应服务应用的 API Key 建议开通应用的时候多选服务
         //private static String clientId = "9f397b0c6b784d3f9a7de26ef1c20c69";
